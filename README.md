@@ -1,19 +1,19 @@
-# Delhivery Logistics Performance & Supply Chain Analytics 🚚
+# Delhivery Logistics Performance & Supply Chain Analytics 
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on identifying operational bottlenecks and optimizing delivery performance for **Delhivery**. Using a dataset of over **26,300+ trips**, I performed end-to-end data analysis—starting from data cleaning in Python to complex querying in SQL and finally creating a 3-page interactive dashboard in Power BI.
 
-## 🎯 Problem Statement
+##  Problem Statement
 The primary goal was to analyze delivery efficiency by comparing actual travel times against OSRM (Estimated) times, identifying "Red Zones" (high delay states), and understanding the impact of route types and distances on overall logistics performance.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python:** Data Cleaning & Preprocessing (Handling missing values, Outliers).
 - **SQL (PostgreSQL):** Advanced Querying to answer 10 critical business questions.
 - **Power BI:** 3-Page Interactive Dashboard for visual storytelling.
 
 ---
 
-## 💾 SQL Analysis: 10 Business Questions Answered
+##  SQL Analysis: 10 Business Questions Answered
 I executed the following queries on the `logistics` database to extract actionable insights:
 
 1.  **Overall Delay Rate (KPI):** What percentage of total orders are delivered late?
@@ -29,7 +29,7 @@ I executed the following queries on the `logistics` database to extract actionab
 
 ---
 
-## 📊 Power BI Dashboard Highlights
+##  Power BI Dashboard Highlights
 The dashboard is divided into **3 specialized pages**:
 
 ### 1. Executive Summary (Overview)
@@ -49,7 +49,7 @@ The dashboard is divided into **3 specialized pages**:
 
 ---
 
-## 🚀 Key Insights
+##  Key Insights
 - **High Delay States:** States like Maharashtra and Uttar Pradesh show higher average delays, needing infrastructure review.
 - **Carrier vs. Seller:** A significant portion of delays occurs during the carrier phase, suggesting a need for better transit routing.
 - **Efficiency Gap:** Trips with an efficiency ratio below 0.8 consistently miss delivery deadlines.
