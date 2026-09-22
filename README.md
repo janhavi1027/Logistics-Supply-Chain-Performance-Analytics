@@ -20,9 +20,9 @@ Specifically: compare actual vs. OSRM-estimated travel time, identify high-delay
 
 ##  Dashboard Preview
 
-![Executive Summary](logistics_analysis_output/Dashboard_Page1_ExecutiveSummary.png)
-![Efficiency & Speed Analysis](logistics_analysis_output/Dashboard_Page2_EfficiencySpeed.png)
-![Route & Bottleneck Deep-Dive](logistics_analysis_output/Dashboard_Page3_RouteDeepdive.png)
+![Executive Summary](logistics_analysis_output/Dashboard_Page1_executive_summary.png)
+![Efficiency & Speed Analysis](logistics_analysis_output/Dashboard_Page2_efficiency_speed.png)
+![Route & Bottleneck Deep-Dive](logistics_analysis_output/Dashboard_Page3_rout_deepdive.png)
 ---
 
 ##  Tech Stack
